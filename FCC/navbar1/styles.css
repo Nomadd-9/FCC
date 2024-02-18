@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+  
+  body {
+    background: url(https://get.wallhere.com/photo/sunlight-trees-landscape-boat-sunset-hill-lake-water-nature-red-reflection-sky-outdoors-Scotland-sunrise-calm-blue-cold-evening-morning-mist-Canon-horizon-time-atmosphere-church-dusk-environment-work-Bank-memorial-2007-cloud-tree-fog-weather-dawn-outdoor-background-colour-boats-350-desktop-wallpaper-best-reservoir-backgrounds-abigfave-landscapes-theunforgettablepictures-bravo-platinumphoto-diamondclassphotographer-business-350d-tup2-loch-flickrs-yourbestshot-computer-wallpaper-afterglow-photospecs-stockcategories-phenomenon-eric-ericwyllie-imagetype-gloaming-hometown-orientation-knappsloch-ostrellina-kilmacolm-inverclyde-struthers-strutherschurch-struthersmemorialchurch-httpstrutherscumbernauldorgblog-824170.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+  }
+
+.header {
+    position: fixed;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 100px;
+    background-color: rgba(57, 58, 59, 0.5);
+    
+}
+
+.logo {
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+
+}
+
+.nav a{
+    color: white;
+    margin-left: 20px;
+}
