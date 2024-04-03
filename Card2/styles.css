@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(110, 108, 108);
+}
+
+.container {
+    display: flex;
+}
+
+.card {
+    background-color: aliceblue;
+    border: 1px solid black;
+    width: 440px;
+    height: 500px;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+    margin-bottom: 20px;
+}
+
+h4 {
+    font-size: large;
+  }
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
